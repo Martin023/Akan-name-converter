@@ -21,14 +21,22 @@ text-align: start;
 } 
     
 body {
-    background: url("images/back1.jpg");
+    background: url("images/back2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+    text-color:#fff;
 }
 .input {
     text-align:left;
 }
 .spacing {
     padding-top:5px;
+}
+.footer {
+    margin-bottom:0px;
+    margin-top:700px;
+    text-color : #fff; 
+    text-align : centre;
+    background-color:white;
 }

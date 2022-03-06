@@ -1,2 +1,2 @@
 # Akan-name-converter
-Web application that gives you your Akan name according to your birthday.
+Web application that gives you your Akan community name according to the Ghanian community's naming convention.

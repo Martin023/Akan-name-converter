@@ -1,6 +1,6 @@
 .front{
-    width: 320px;
-    height: 520px;
+    width: 400px;
+    height: 600px;
     background: rgb(81, 94, 79);
     color:#fff ;
     top:50%;
@@ -13,7 +13,7 @@
     margin-top: 30px;
     padding-top:2px;
 }
- #introduction {
+#introduction {
     text-align: center;
 } 
 #about-game{
@@ -21,8 +21,11 @@ text-align: start;
 } 
     
 body {
-    background: url("Images../back.jpg");
+    background: url("images/back1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+}
+.input {
+    text-align:left;
 }

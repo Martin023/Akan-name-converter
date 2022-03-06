@@ -24,7 +24,7 @@ The application has been tested using chrome and Firefox browser and does not ha
 ## Technologies Used
 HTML,CSS, Java Script,figma as the design tool, and bootsrap for resposiveness and styling.
 ## Support and contact details
-Reach me through my socials as pinned on my profile.
+Reach me through my website and socials as pinned on my profile.
 ### License
 MIT licence.
 Copyright (c) 2022 

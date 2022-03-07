@@ -24,16 +24,17 @@
                           <div class="form-group">
                           <label for="sel1">What is your gender :</label>
                           <select class="form-control" id="sel1" name="">
+                            <option name="" value="Select" id="">Select gender</option>
                             <option name="gender" value="Male" id="male">He</option>
                             <option name="gender" value="Female" id="female">She</option>
                           </select>
                           <br>
                           <div class="input">
                           <label for="birthday">Birthday:</label>
-                          <input type="date" id="birthday" name="birthday"> </br>
+                          <input type="date" id="birthday" name="birthday" min='1899-01-01' max='2022-03-08'> </br>
                           
                           </div>
-                        <button type="submit" onclick="getAkanName(); return false;" class="btn btn-outline-success"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;&nbsp;Get Akan Name </button>
+                        <button type="submit" onclick="getAkanName(); return false;" class="btn btn-success"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;&nbsp;Get Akan Name </button>
                      </form> 
                 <div class="your-akan-name">
 		<p id="message" class="output"></p>
